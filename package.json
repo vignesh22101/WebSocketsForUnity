@@ -1,0 +1,28 @@
+{
+  "name": "com.nika.websocket",
+  "version": "1.0.4",
+  "displayName": "WebSocket Wrapper for unity",
+  "description": "Wrapper to use websockets in unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "com.nika",
+    "websocket"
+  ],
+  "author": {
+    "name": "Nika",
+    "email": "v78069@gmail.com",
+    "url": "https://www.google.com"
+  }, 
+  "samples":[{
+   "displayName": "SampleScene",
+   "description": "SampleScene",
+   "path": "Samples/"
+}]
+}
